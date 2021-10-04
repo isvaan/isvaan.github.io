@@ -1,1 +1,3 @@
 # my 1st try at a startpage
+<img src="https://github.com/isvaan/kezdolap/blob/main/screenshot.png">
+<a href="">preview</a>
